@@ -28,4 +28,4 @@
 ## 🤝 Let's Connect
 📧 Email: sambathkumarpi@gmail.com  
 📍 Location: Île-de-France, France  
-🔗 LinkedIn: [sambathkumarpi][![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sambathkumarpi/)
+🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sambathkumarpi/)
