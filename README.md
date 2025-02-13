@@ -21,7 +21,7 @@
 ---
 
 ## 📚 Education
-- **ESILV** (2020-2025)  
+- **ESILV** (2023-2025)  
   - Master in Cybersecurity and cloud computing 
 ---
 
