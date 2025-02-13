@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there am Sambathkumar👋
 
-<!--
-**sambathkumarpi/sambathkumarpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate and Results-Driven DevOps | DevSecOps Enthusiast
+🎓 Currently pursuing a Master's in Cybersecurity, I am committed to staying at the forefront of cutting-edge technologies and security practices.
 
-Here are some ideas to get you started:
+🌟 Professional Journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 DevOps Excellence
+As a DevOps Engineer at Evaluserve, I specialize in streamlining development workflows using:
+
+## 🛠️ Competencies
+
+### Programming Languages
+🐍 Python
+🐳 Docker
+☸️ Kubernetes
+☁️ Azure DevOps Server & Microsoft Azure
+- **SQL**, **Node.js**
+
+### Languages
+- 🇫🇷 **French**: Intermediate   
+- 🇬🇧 **English**: Pofessional   
+
+---
+
+## 📚 Education
+- **ESILV** (2020-2025)  
+  - Master in Cybersecurity and cloud computing 
+---
+
+## 🤝 Let's Connect
+📧 Email: sambathkumarpi@gmail.com  
+📍 Location: Île-de-France, France  
+🔗 LinkedIn: [sambathkumarpi](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sambathkumarpi/)
